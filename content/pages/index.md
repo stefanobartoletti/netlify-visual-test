@@ -40,7 +40,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
